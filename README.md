@@ -22,7 +22,7 @@ BCG X Strategy Consulting Job Simulation: Use data to advise the client, PowerCo
 - Presented an executive summary of key findings to the supervisor.
 - Delivered a quick update on the project progress to the client and demonstrated the impact of the predictive model.
 
-## Task5 (Personal): Hypothesis Testing
+## Task3.5 (Personal): Hypothesis Testing
 - Conducted an A/B test to investigate the effect of potential strategies on the churn rate.
 - Shared the findings and made suggestions through effective visualizations and presentations.
 
