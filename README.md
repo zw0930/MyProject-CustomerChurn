@@ -5,7 +5,7 @@ BCG X Strategy Consulting Job Simulation: Use data to advise the client, PowerCo
 ## Task1: Business Understanding $ Hypothesis Framing
 - Gained an understanding of the business context.
 - Created a work plan to test the hypothesis regarding whether customer churn is driven by price sensitivity.
-- Shared the plan and the required data with stakeholders via email.
+- Shared the plan including the required data with supervisor and stakeholders via email.
 
 ## Task2: Exploratory Data Analysis (EDA)
 - Conducted data cleaning for the analysis.
