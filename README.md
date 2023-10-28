@@ -18,13 +18,13 @@ BCG X Strategy Consulting Job Simulation: Use data to advise the client, PowerCo
 - Developed predictive models to forecast customer churn using the dataset with cleaned and engineered features.
 - Presented insights to stakeholders.
 
+## Task3.5 (Personal): Hypothesis Testing
+- Designed controlled experiments (A/B tests) to assess the real-time impact of different discount strategies on net revenue.
+
 ## Taks4: Findings & Recommendations
 - Presented an executive summary of key findings to the supervisor.
 - Delivered a quick update on the project progress to the client and demonstrated the impact of the predictive model.
-
-## Task3.5 (Personal): Hypothesis Testing
-- Conducted an A/B test to investigate the effect of potential strategies on the churn rate.
-- Shared the findings and made suggestions through effective visualizations and presentations.
+- Recommended future work plan for optimizing net revenue based on discount levels and offered fraction.
 
 ## Project highlights
 - This project simulates a complete data workflow: Plan, Analyze, Construct, Execute (PACE), providing stakeholders with recommendations, tools, and models to drive critical business decisions.
